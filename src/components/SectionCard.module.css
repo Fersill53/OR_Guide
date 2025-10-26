@@ -1,0 +1,12 @@
+.card {
+    background: #ffffff; border: 1px solid #e7e7e7; border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08); padding: 24px;
+}
+
+.head h3 {
+    margin: 0 0 6px; color: #0f172a;
+}
+
+.sub { margin: 0; color: #64748b; font-size: 0.95rem; }
+
+.body { margin-top: 16px; }
