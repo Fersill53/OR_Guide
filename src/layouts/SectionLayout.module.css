@@ -1,0 +1,15 @@
+.page {
+    max-width: 1100px; margin: 0 auto; padding: 24px;
+    background: #f8fafc; min-height: calc(100vh - 64px);
+}
+
+.header h1 { margin: 0 0 8px; color: #0f172a; }
+
+.header p { margin: 0; color: #64748b; }
+
+.actions { margin-top: 16px; }
+
+.content {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px; margin-top: 24px;
+}
