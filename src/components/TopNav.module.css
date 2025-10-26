@@ -1,0 +1,19 @@
+.wrap {
+    position: sticky; top: 0; z-index: 10;
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 16px 24px;
+    background: #ffffff; border-bottom: 1px solid #e7e7e7;
+}
+
+.brand { font-weight: 700; color: #0f172a;}
+
+.link {
+    margin-left: 12px; text-decoration: none; color: #64748b;
+    padding: 6px 10px; border-radius: 10px;
+}
+
+.active {
+    margin-left: 12px; text-decoration: none;
+    padding: 6px 10px; border-radius: 10px;
+    background: #eef2ff; color: #2563eb;
+}
