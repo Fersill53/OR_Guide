@@ -1,0 +1,10 @@
+.cta {
+    display: inline-block; padding: 10px 14px; border-radius: 12px;
+    background: #2563eb; color: #fff; text-decoration: none;
+}
+
+.heroCard {
+    grid-column: 1/-1;
+    background: #fff; border: 1px solid #e7e7e7; border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.8); padding: 24px;
+}
